@@ -1,0 +1,25 @@
+.content-wrapper {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0px 16px;
+}
+.grey-bg{
+    background-color: #ECECEC;
+}
+.header-wrap {
+    background-color: #ECECEC;
+
+}
+.header-inner-wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+.header-icon {
+    width: 100px;
+    height: auto;
+}
+.header-name {
+    margin: 0;
+    padding-left: 50px;
+}
